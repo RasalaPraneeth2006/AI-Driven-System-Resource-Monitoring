@@ -1,0 +1,10 @@
+{
+  "seq_len": 20,
+  "hidden": 64,
+  "layers": 2,
+  "dropout": 0.1,
+  "lr": 0.001,
+  "batch_size": 64,
+  "epochs": 12,
+  "device": "cpu"
+}
